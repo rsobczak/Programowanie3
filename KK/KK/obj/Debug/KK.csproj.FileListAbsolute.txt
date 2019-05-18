@@ -1,0 +1,10 @@
+C:\Users\Radosław Sobczak\source\repos\KK\KK\bin\Debug\KK.exe.config
+C:\Users\Radosław Sobczak\source\repos\KK\KK\bin\Debug\KK.exe
+C:\Users\Radosław Sobczak\source\repos\KK\KK\bin\Debug\KK.pdb
+C:\Users\Radosław Sobczak\source\repos\KK\KK\obj\Debug\KK.csprojAssemblyReference.cache
+C:\Users\Radosław Sobczak\source\repos\KK\KK\obj\Debug\KK.Form1.resources
+C:\Users\Radosław Sobczak\source\repos\KK\KK\obj\Debug\KK.Properties.Resources.resources
+C:\Users\Radosław Sobczak\source\repos\KK\KK\obj\Debug\KK.csproj.GenerateResource.cache
+C:\Users\Radosław Sobczak\source\repos\KK\KK\obj\Debug\KK.csproj.CoreCompileInputs.cache
+C:\Users\Radosław Sobczak\source\repos\KK\KK\obj\Debug\KK.exe
+C:\Users\Radosław Sobczak\source\repos\KK\KK\obj\Debug\KK.pdb
